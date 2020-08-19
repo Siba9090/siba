@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: cursive;
+}
+h1{
+	
+	width: 10%;
+	margin: 0 auto 0 auto;
+}
+
+.user{
+	background-color:#cbeaed;
+	position: relative;
+	padding-top: 100px;
+}
+
+.top{
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.bottom{
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+.bottom-container,.contact-me{
+	text-align: center;
+	padding-top: 100px;
+	font-family: monospace;
+}
+.img1{
+	border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+}
